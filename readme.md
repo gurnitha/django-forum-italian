@@ -7,3 +7,10 @@
         └── readme.md        
         new file:   .gitignore
         new file:   readme.md
+
+#### 2. Membuat virtual environment
+
+        E:\workspace\django\Italian\DjangoForum (main)
+        λ python -m venv venv3921
+        modified:   .gitignore
+        modified:   readme.md
