@@ -1,5 +1,8 @@
 ## MEMBUAT APLIKASI FORUM MENGGUNAKAN DJANGO DAN POSTGRESQL
 
+
+### 1. SETUP
+
 #### 1. Membuat remote repositori pada Github 
 
         ing@DESKTOP-5NU2HDJ:/mnt/e/workspace/django/Italian/DjangoForum$ tree -L 1
@@ -21,6 +24,9 @@
         (venv3921) λ python -m pip install django==2.1
         modified:   readme.md
 
+
+### 2. DJANGO PROYEK
+
 #### 3. Membuat Django Proyek 'DjangoForum/config'
 
         .
@@ -36,6 +42,9 @@
             ├── Lib
             ├── Scripts
             └── pyvenv.cfg
+
+
+### 3. DATABASE
 
 #### 4. Database Part 1: Membuat Postgres database
 
@@ -76,6 +85,25 @@
         Starting development server at http://127.0.0.1:8000/
         Quit the server with CTRL-BREAK.
 
+
+### 4. USER AUTHENTICATION
+
+#### 11. User Authentication Part 1: Membuat app  di dalam foderl apps 'accounts'
+
+        .
+        ├── apps
+        │	 └── accounts
+        │	     ├── __init__.py
+        │	     ├── admin.py
+        │	     ├── apps.py
+        │	     ├── migrations
+        │	     ├── models.py
+        │	     ├── tests.py
+        │	     └── views.py
+        ├── config
+        ├── manage.py
+        ├── readme.md
+        └── venv3921
 
 
 
