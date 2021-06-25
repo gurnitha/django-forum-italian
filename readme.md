@@ -46,8 +46,10 @@
         (venv3921) λ pip install psycopg2 
         (venv3921) λ pip install django-environ
 
+#### 6. Database Part 3: Menambahkan django-environ pd settings.py
 
-
+        modified:   config/settings.py
+        modified:   readme.md 
 
 
 
