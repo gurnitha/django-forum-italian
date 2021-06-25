@@ -116,6 +116,10 @@
         new file:   apps/accounts/forms.py
         modified:   readme.md
 
+#### 14. User Authentication Part 4: Membuat view function untuk memvalidasi data user
+
+        modified:   apps/accounts/views.py
+        modified:   readme.md
 
 
 
