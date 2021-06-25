@@ -41,8 +41,10 @@
 
         hp=# CREATE DATABASE django_forum_italian;  
 
+#### 5. Database Part 2: Instal packages django-environ dan postgres driver
 
-
+        (venv3921) λ pip install psycopg2 
+        (venv3921) λ pip install django-environ
 
 
 
