@@ -122,9 +122,10 @@
         modified:   readme.md
 
 
+#### 15. User Authentication Part 5: Membuat urls.py pada accounts 
 
-
-
+        new file:   apps/accounts/urls.py
+        modified:   readme.md
 
 
 
