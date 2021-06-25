@@ -111,7 +111,10 @@
         modified:   config/settings.py
         modified:   readme.md
 
+#### 13. User Authentication Part 3: Membuat form registrasi
 
+        new file:   apps/accounts/forms.py
+        modified:   readme.md
 
 
 
