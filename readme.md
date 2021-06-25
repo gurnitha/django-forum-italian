@@ -128,7 +128,10 @@
         modified:   readme.md
 
 
+#### 15. User Authentication Part 6: Memasukan accounts/urls.py pada config/urls.py
 
+        modified:   config/urls.py
+        modified:   readme.md
 
 
 
