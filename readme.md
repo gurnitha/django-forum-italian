@@ -105,7 +105,11 @@
         ├── readme.md
         └── venv3921
 
+#### 12. User Authentication Part 2: Meregistrasi accounts app pada config/settings.py
 
+        modified:   apps/accounts/apps.py
+        modified:   config/settings.py
+        modified:   readme.md
 
 
 
