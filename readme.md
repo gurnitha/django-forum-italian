@@ -133,7 +133,10 @@
         modified:   config/urls.py
         modified:   readme.md
 
+#### 16. User Authentication Part 7: Memodifikasi LANGUAGE_CODE dan TIME_ZONE 
 
+        modified:   config/settings.py
+        modified:   readme.md
 
 
 
