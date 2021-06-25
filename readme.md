@@ -60,6 +60,10 @@
 
         modified:   readme.md
 
+#### 9. Database Part 6: Mengganti SECRET_KEY dan Database kredensial pada settings.py dgn db kredensial yg ada pada .env file
+
+        modified:   config/settings.py
+        modified:   readme.md
 
 
 
