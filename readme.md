@@ -37,7 +37,9 @@
             ├── Scripts
             └── pyvenv.cfg
 
+#### 4. Database Part 1: Membuat Postgres database
 
+        hp=# CREATE DATABASE django_forum_italian;  
 
 
 
