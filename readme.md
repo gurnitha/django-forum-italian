@@ -56,7 +56,9 @@
         modified:   .gitignore
         modified:   readme.md
 
+#### 8. Database Part 5: Menambahkan kredensial database pada .env file
 
+        modified:   readme.md
 
 
 
