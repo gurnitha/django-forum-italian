@@ -51,10 +51,10 @@
         modified:   config/settings.py
         modified:   readme.md 
 
+#### 7. Database Part 4: Membuat .env file di dalam config 
 
-
-
-
+        modified:   .gitignore
+        modified:   readme.md
 
 
 
