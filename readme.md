@@ -65,9 +65,16 @@
         modified:   config/settings.py
         modified:   readme.md
 
+#### 10. Database Part 7: Jalankan server untuk menguji
 
+        (venv3921) λ python manage.py runserver
+        Performing system checks...
 
-
+        System check identified no issues (0 silenced).
+        June 25, 2021 - 20:51:56
+        Django version 2.1, using settings 'config.settings'
+        Starting development server at http://127.0.0.1:8000/
+        Quit the server with CTRL-BREAK.
 
 
 
