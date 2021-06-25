@@ -21,9 +21,21 @@
         (venv3921) λ python -m pip install django==2.1
         modified:   readme.md
 
+#### 3. Membuat Django Proyek 'DjangoForum/config'
 
-
-
+        .
+        ├── config
+        │ 	├── __init__.py
+        │ 	├── settings.py
+        │ 	├── urls.py
+        │ 	└── wsgi.py
+        ├── manage.py
+        ├── readme.md
+        └── venv3921
+            ├── Include
+            ├── Lib
+            ├── Scripts
+            └── pyvenv.cfg
 
 
 
