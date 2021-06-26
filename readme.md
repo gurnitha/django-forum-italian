@@ -166,7 +166,19 @@
 
         CRISPY_TEMPLATE_PACK = "bootstrap4" 
 
+#### 22. User Authentication Part 12: Testing registrasi user baru
 
+        
+        NOTE: 
+        1. Terjadi error spt di bawah ini:
+        AssertionError: database connection isn't set to UTC
+        2. Penyebab error : terinstall: psycopg2==2.9.1
+        3. Solusi: reintall psycopg2==2.8.6
+        4. Sumber solusi: Stackoverflow
+        https://stackoverflow.com/questions/68024060/assertionerror-database-connection-isnt-set-to-utc
+        5. Registrasi user baru berhasil :)
+
+        modified:   readme.md
 
 
 
