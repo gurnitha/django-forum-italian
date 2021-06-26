@@ -162,7 +162,7 @@
         modified:   readme.md
 
 
-#### 20. User Authentication Part 11: Templates - Menambahkan bootstrap4 paket pada settings.py
+#### 21. User Authentication Part 12: Templates - Menambahkan bootstrap4 paket pada settings.py
 
         CRISPY_TEMPLATE_PACK = "bootstrap4" 
 
