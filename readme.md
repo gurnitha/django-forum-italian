@@ -155,7 +155,11 @@
         modified:   readme.md
         new file:   templates/base.html
 
+#### 20. User Authentication Part 11: Templates - Modifikasi registrasi form page dam regostrasi django-crispy
 
+        modified:   apps/accounts/templates/accounts/registrasi.html
+        modified:   config/settings.py
+        modified:   readme.md
 
 
 
