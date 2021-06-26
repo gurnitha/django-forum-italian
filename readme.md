@@ -145,10 +145,10 @@
         modified:   config/settings.py
         modified:   readme.md
 
+#### 18. User Authentication Part 8: Templates -  install django_crispy_forms
 
-
-
-
+        (venv3921) λ pip install django_crispy_forms
+        modified:   readme.md
 
 
 
