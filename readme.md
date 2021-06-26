@@ -139,9 +139,11 @@
         modified:   readme.md
 
 
+#### 17. User Authentication Part 8: Templates - setting up templates
 
-
-
+        new file:   apps/accounts/templates/accounts/registrasi.html
+        modified:   config/settings.py
+        modified:   readme.md
 
 
 
